@@ -1,0 +1,15 @@
+{
+  "name": "agent-home",
+  "owner": {
+    "name": "Previty",
+    "url": "https://github.com/previty"
+  },
+  "description": "Previty's team plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "previty",
+      "source": "./plugins/previty",
+      "description": "Team skills: Matt Pocock's engineering skills (grilling, specs and tickets, TDD, code review, domain modelling), pinned and adapted to CLAUDE.md."
+    }
+  ]
+}
