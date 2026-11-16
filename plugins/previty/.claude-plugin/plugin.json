@@ -1,0 +1,9 @@
+{
+  "name": "previty",
+  "description": "Team skills: Matt Pocock's engineering skills (grilling, specs and tickets, TDD, code review, domain modelling), pinned and adapted to CLAUDE.md.",
+  "author": {
+    "name": "Previty",
+    "url": "https://github.com/previty"
+  },
+  "repository": "https://github.com/previty/agent-home"
+}
