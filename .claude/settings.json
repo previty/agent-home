@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "additionalDirectories": ["../"]
+  },
+  "extraKnownMarketplaces": {
+    "agent-home": {
+      "source": {
+        "source": "github",
+        "repo": "previty/agent-home"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "atlassian@claude-plugins-official": true,
+    "previty@agent-home": true
+  }
+}
